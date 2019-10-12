@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Kot Shop</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="save_password">Save Password</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="create_new_account">Create new account</string>
 </resources>
